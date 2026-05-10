@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+web/node_modules/
+web/.next/
+
+# Data
+data/chromadb/
+
+# Generated files
+static/generated/
+
+# OS
+.DS_Store
+
+# Personal files
+TUGAS.png
+contoh.png
+chabot.png
+web/.env.local
+web/tsconfig.tsbuildinfo
