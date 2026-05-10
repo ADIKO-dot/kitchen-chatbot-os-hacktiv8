@@ -282,7 +282,7 @@ kitchenos-ai/
 
 ## 👤 Author
 
-**Adi Kotak** — Hacktiv8 Data Science Program
+**I PUTU ADIBAWA** — Hacktiv8 Data Science Program
 
 ---
 
