@@ -1,6 +1,6 @@
 # 🍳 KitchenOS-AI
 
-**AI-Powered Kitchen Operations Assistant** — Chatbot multi-agent berbasis LLM untuk manajemen operasional dapur dan restoran.
+**AI-Powered Kitchen Operations Assistant** — Chatbot berbasis LLM untuk manajemen operasional dapur dan restoran.
 
 > Final Project: LLM-Based Tools and Gemini API Integration for Data Scientists (Hacktiv8)
 
@@ -8,7 +8,7 @@
 
 ## 📋 Deskripsi
 
-KitchenOS-AI adalah chatbot cerdas yang membantu operasional dapur/restoran menggunakan arsitektur **multi-agent** dengan **RAG (Retrieval-Augmented Generation)**. Sistem ini secara otomatis mendeteksi intent pengguna dan merutekan ke agent spesialis yang tepat.
+KitchenOS-AI adalah chatbot cerdas yang membantu operasional dapur/restoran menggunakan dengan **RAG (Retrieval-Augmented Generation)**. Sistem ini secara otomatis mendeteksi intent pengguna dan merutekan ke agent spesialis yang tepat.
 
 ### Use Case
 - Asisten operasional dapur (resep, SOP, food safety)
